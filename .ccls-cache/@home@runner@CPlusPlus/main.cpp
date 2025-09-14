@@ -2,7 +2,8 @@
 
 using namespace std;
 
-int main() {
+int main() 
+{
   char first, middle, last;
   // store your initials in these variables
   first = 'N';
